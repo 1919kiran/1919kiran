@@ -9,7 +9,7 @@
 
 
 ### Resume
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/1919kiran/1919kiran/blob/main/SaiKiranMadupuResume.pdf" width="500" height="375">
+<iframe src="https://drive.google.com/file/d/1srqzqN_pzIipcp2H9mt9vPRBIKB48ozj/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ### 📊 GitHub Stats
