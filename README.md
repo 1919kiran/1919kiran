@@ -9,7 +9,7 @@
 
 
 ### Resume
-[embed]https://github.com/1919kiran/1919kiran/blob/main/SaiKiranMadupu%20Resume.pdf[/embed]
+<embed src="https://github.com/1919kiran/1919kiran/blob/main/SaiKiranMadupu%20Resume.pdf" type="application/pdf">
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=1919kiran&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
