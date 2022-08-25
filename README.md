@@ -10,6 +10,8 @@
 
 ### Resume
 <embed src="SaiKiranMadupuResume.pdf" type="application/pdf">
+<object data="SaiKiranMadupuResume.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=1919kiran&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
