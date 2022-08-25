@@ -9,8 +9,11 @@
 
 
 ### Resume
-<embed src="SaiKiranMadupuResume.pdf" type="application/pdf">
-<object data="SaiKiranMadupuResume.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://github.com/1919kiran/1919kiran/blob/main/SaiKiranMadupuResume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/1919kiran/1919kiran/blob/main/SaiKiranMadupuResume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 ### 📊 GitHub Stats
