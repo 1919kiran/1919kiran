@@ -9,7 +9,7 @@
 
 
 ### Resume
-<iframe src="https://drive.google.com/file/d/1srqzqN_pzIipcp2H9mt9vPRBIKB48ozj/preview" width="640" height="480" allow="autoplay"></iframe>
+<html><iframe src="https://drive.google.com/file/d/1srqzqN_pzIipcp2H9mt9vPRBIKB48ozj/preview" width="640" height="480" allow="autoplay"></iframe></html>
 
 
 ### 📊 GitHub Stats
