@@ -1,6 +1,14 @@
+<h1 align='center'>
+  Hi there 👋 I'm Sai Kiran 👨‍💻
+</h1>
+
+<h3 align='center'>
+  A backend developer from San Jose
+</h3>
+
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sai-kiran/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sai-kiran/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiran.madupu@gmail.com) 
 
 
