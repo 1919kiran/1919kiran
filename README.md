@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A backend developer from San Jose
+  Backend developer from San Francisco Bay Area
 </h3>
 
 
