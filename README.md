@@ -4,7 +4,7 @@
 </h2>
 
 <p>
-I'm a backend developer who's always looking to improve and grow in my craft. My passion lies in building scalable and reliable software systems. I'm committed to continuous learning and exploring new technologies to enhance my skills. Please feel free to reach out if want to collaborate, or are have any new interesting oppurtunities.
+I'm a backend developer who's always looking to improve and grow in my craft. My passion lies in building scalable and distributed software systems. I'm committed to continuous learning and exploring new technologies to enhance my skills. Please feel free to reach out if want to collaborate, or are have any new interesting oppurtunities.
   
 📍 San Fransisco Bay Area
 <br>
